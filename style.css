@@ -1,0 +1,16 @@
+.bio {
+    width: 500px;
+    height: 220px;
+    padding: 1em;
+    margin: 1em;
+    border: 2px solid black;
+}
+.bio-avatar {
+    float: left;
+    shape-outside: circle();
+    border-radius: 50%;
+    margin:  0 1em 1em 0;
+}
+.bio-name {
+    text-align: justify;
+}
